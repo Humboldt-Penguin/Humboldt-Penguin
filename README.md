@@ -22,7 +22,7 @@ Here are summaries/links to my repositories:
    - Developed a **fast calorimeter simulation framework with Generative Adversarial Networks**. 
    
    
-[Atmospheric/Solar Physics](https://github.com/Humboldt-Penguin/Albedo-Hurricane-Research) — NJIT Dept. Solar Physics
+[Atmospheric/Solar Physics](https://github.com/Humboldt-Penguin/Albedo-Hurricane-Research) — *NJIT Dept. Solar Physics*
 
 - Analyzed cloud-radiation feedback systems during hurricanes with new BBSO Earthshine solar reflectance data. Mentored by Professor Andrew Gerrard.
 
