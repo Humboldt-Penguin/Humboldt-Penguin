@@ -1,8 +1,8 @@
-Helloooooo
+Hello!
 
-I'm a second year undergraduate at Rutgers University studying Physics and Computer Science. 
+I'm an undergraduate at Rutgers University studying Physics and Computer Science. 
 
-Say hi at [zain.eris.kamal@rutgers.edu](mailto:zain.eris.kamal@rutgers.edu). 
+Contact me at [zain.eris.kamal@rutgers.edu](mailto:zain.eris.kamal@rutgers.edu). 
 
 Here are summaries/links to my repositories:
 
