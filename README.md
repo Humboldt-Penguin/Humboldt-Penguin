@@ -12,14 +12,11 @@ Here are summaries/links to my repositories:
 
 [Mars Geomagnetism](https://github.com/Humboldt-Penguin/Mars-Magnetics-Research) — *Rutgers Dept. Planetary Sciences*
 
-- Studying **impact-induced demagnetization in Martian crust** using high-resolution magnetic field data from NASA’s MAVEN satellite. Mentored by Professor Lujendra Ojha.
-   - Abstract submitted to American Geophysical Union 2022 Fall Meeting.
-
+- Studying **impact-induced demagnetization in Martian crust** using high-res magnetometer from NASA’s MAVEN satellite. Mentored by Professor Lujendra Ojha.
 
 [High Energy Particle Physics](https://github.com/Humboldt-Penguin/HapPyCal) — *Rutgers Dept. Physics/Astronomy*
 
-- Performing analysis/software development for the MUon Scattering Experiment (MUSE) group to investigate the proton radius puzzle. Mentored by Professor Ronald Gilman.
-   - Developed a **fast calorimeter simulation framework with Generative Adversarial Networks**. 
+- Performing analysis/software development for the MUon Scattering Experiment (MUSE) group to investigate the proton radius puzzle. Developed a **fast calorimeter simulation framework with Generative Adversarial Networks**. Mentored by Professor Ronald Gilman. 
    
    
 [Atmospheric/Solar Physics](https://github.com/Humboldt-Penguin/Albedo-Hurricane-Research) — *NJIT Dept. Solar Physics*
