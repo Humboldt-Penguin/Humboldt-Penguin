@@ -1,6 +1,6 @@
 Hello!
 
-I'm a second-year undergraduate at Rutgers University studying Physics and Computer Science. My primary research interest is Martian paleomagnetism and impact processes. I've recently begun work in neutrino oscillations.
+I'm a second-year undergraduate at Rutgers University studying Physics and Computer Science. My primary research interest is Martian paleomagnetism and impact processes. 
 
 My [CV](https://drive.google.com/file/d/1sEKnFHYofRDN34PZBcesmbAbGBqePfzi/view?usp=sharing).
 
