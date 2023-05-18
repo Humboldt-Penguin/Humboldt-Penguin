@@ -1,6 +1,6 @@
 Hello!
 
-I'm a second-year undergraduate at Rutgers University studying Physics and Computer Science. My primary research interest is Martian paleomagnetism and impact processes. 
+I'm a second-year undergraduate at Rutgers University studying Physics and Computer Science. My primary research interest is Martian paleomagnetism and impact processes. I also like rock climbing :)
 
 My [CV](https://drive.google.com/file/d/1TegbbIJj_BF870jwapbpFJFgYRaxB6Hd/view?usp=sharing).
 
