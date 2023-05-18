@@ -43,3 +43,10 @@ Here are summaries/links to my repositories:
 
 [Integrated Water Hardness Meter](https://github.com/Humboldt-Penguin/Integrated_Water_Hardness_Monitor)
 - MVP for a device that homeowners can install and use to monitor water hardness trends in pipes.
+
+---
+
+## Misc
+
+[Learn Data Analysis with Python](https://github.com/Humboldt-Penguin/SPS_23Sp_PythonHackEvent)
+- We run a cluster for the Rutgers Physics department. This is one of our Spring 2023 workshops on learning basic data analysis with Python.
