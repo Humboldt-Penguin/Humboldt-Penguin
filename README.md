@@ -16,9 +16,9 @@ Here are summaries/links to my repositories:
 
 - Investigating the depth/formation/timing of crustal magnetic sources and implications for history of the Martian dynamo via impact craters. Mentored by Professor Lujendra Ojha.
 
-[High Energy Particle Physics](https://github.com/Humboldt-Penguin/HapPyCal) — *Rutgers Dept. Physics/Astronomy*
+[High Energy Physics, Muon Scattering](https://github.com/Humboldt-Penguin/HapPyCal) — *Rutgers Dept. Physics/Astronomy*
 
-- Performing analysis/software development for the MUon Scattering Experiment (MUSE) group to investigate the proton radius puzzle. Primarly contribution was developing a fast calorimeter simulation framework with Generative Adversarial Networks. Mentored by Professor Ronald Gilman. 
+- Performing analysis/software development for the MUon Scattering Experiment (MUSE) group to investigate the proton radius puzzle. My primary contribution was developing a fast calorimeter simulation framework with Generative Adversarial Networks. Mentored by Professor Ronald Gilman. 
    
    
 [Atmospheric/Solar Physics](https://github.com/Humboldt-Penguin/Albedo-Hurricane-Research) — *NJIT Dept. Solar Physics*
