@@ -2,7 +2,7 @@ Hello!
 
 I'm a second-year undergraduate at Rutgers University studying Physics and Computer Science. My primary research interest is Martian paleomagnetism and impact processes. I also like rock climbing :)
 
-My [CV](https://drive.google.com/file/d/1TegbbIJj_BF870jwapbpFJFgYRaxB6Hd/view?usp=sharing).
+My [CV](https://drive.google.com/file/d/1fRvMdfRPxHcCs7aNwoofUByy28Nm1rfO/view?usp=sharing).
 
 Contact me: [zain.eris.kamal@rutgers.edu](mailto:zain.eris.kamal@rutgers.edu). 
 
