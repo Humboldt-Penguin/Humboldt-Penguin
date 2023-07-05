@@ -10,6 +10,13 @@ Here are summaries/links to my repositories:
 
 ---
 
+## Software
+
+[RedPlanet](https://github.com/Humboldt-Penguin/redplanet) — *Mars Geophysics*
+
+
+---
+
 ## Research
 
 [Mars Geomagnetism](https://github.com/Humboldt-Penguin/Mars-Magnetics-Research) — *Rutgers Dept. Planetary Sciences*
@@ -24,6 +31,7 @@ Here are summaries/links to my repositories:
 [Atmospheric/Solar Physics](https://github.com/Humboldt-Penguin/Albedo-Hurricane-Research) — *NJIT Dept. Solar Physics*
 
 - Analyzed cloud-radiation feedback systems during hurricanes with new BBSO Earthshine solar reflectance data. Mentored by Professor Andrew Gerrard.
+
 
 ---
 
