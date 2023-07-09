@@ -12,7 +12,7 @@ Here are summaries/links to my repositories:
 
 ## Software
 
-[RedPlanet](https://github.com/Humboldt-Penguin/redplanet) — *Mars Geophysics*
+[RedPlanet](https://github.com/Humboldt-Penguin/redplanet) — RedPlanet is a Python package that gives an easy way to work with various Mars datasets. Create publication-ready plots on the fly or access the underlying data for more involved calculations.
 
 
 ---
