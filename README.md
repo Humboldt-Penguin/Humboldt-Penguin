@@ -10,14 +10,14 @@ Here are summaries/links to my repositories:
 
 ---
 
-## Software
+## 1. Software
 
 [RedPlanet](https://github.com/Humboldt-Penguin/redplanet) — RedPlanet is a Python package that gives an easy way to work with various Mars datasets. Create publication-ready plots on the fly or access the underlying data for more involved calculations.
 
 
 ---
 
-## Research
+## 2. Research
 
 [Mars Geomagnetism](https://github.com/Humboldt-Penguin/Mars-Magnetics-Research) — *Rutgers Dept. Planetary Sciences*
 
@@ -35,7 +35,7 @@ Here are summaries/links to my repositories:
 
 ---
 
-## Independent Projects
+## 3. Independent Projects
 
 [Physics Simulations with VPython](https://github.com/Humboldt-Penguin/Physics_Simulations)
 - Interactive simulations of the N-body problem, Rutherford scattering, magnetic vector fields, etc.
@@ -54,7 +54,7 @@ Here are summaries/links to my repositories:
 
 ---
 
-## Misc
+## 4. Misc
 
 [Learn Data Analysis with Python](https://github.com/Humboldt-Penguin/SPS_23Sp_PythonHackEvent)
 - We run a cluster for the Rutgers Physics department. This is one of our Spring 2023 workshops on learning basic data analysis with Python.
