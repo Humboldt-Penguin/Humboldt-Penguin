@@ -19,7 +19,7 @@ Here are summaries/links to my repositories:
 
 ## 2. Research
 
-[Mars Geomagnetism](https://github.com/Humboldt-Penguin/Mars-Magnetics-Research) — *Rutgers Dept. Planetary Sciences*
+[Mars Geophysics](https://github.com/Humboldt-Penguin/Mars-Magnetics-Research) — *Rutgers Dept. Planetary Sciences*
 
 - Investigating the depth/formation/timing of crustal magnetic sources and implications for history of the Martian dynamo via impact craters. Mentored by Professor Lujendra Ojha.
 
