@@ -12,7 +12,7 @@ Here are summaries/links to my repositories:
 
 ## 1. Software
 
-[RedPlanet](https://github.com/Humboldt-Penguin/redplanet) (under heavy development / complete rewrite, reach out if you need a certain feature) — RedPlanet is a Python package for working with various Mars datasets. Examples are GRS for heat flow/depth calculations, 200m topography DEM (parallel/chunked processing for lower system-strain), custom crustal thickness models (parameterized by north/south density, various reference interior models, and thickness at InSight), searchable crater databases, and MAVEN magnetometer data. 
+[RedPlanet](https://github.com/Humboldt-Penguin/redplanet) (under heavy development / complete rewrite / data migration; but I'd be happy to help if you need a certain feature) — RedPlanet is a Python package created with the goal of making a handful of Mars geophysical datasets/analyses as accessible and convenient as possible, so you don't have to waste time finding/downloading/formatting data. Examples are heat flow/depth calculations with gamma-ray spectroscopy (GRS) data, digital elevation models up to 200m resolution (with parallelization/chunking to significantly half memory/storage use and increase accessing speed by 3-10 orders of magnitude), custom crustal thickness models (~23K options parameterized by any north/south crustal density, 16 reference interior models, and any crustal thickness at InSight), searchable crater databases, and MAVEN magnetometer data. 
 
 ---
 
