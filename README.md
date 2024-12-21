@@ -1,8 +1,9 @@
 Hello!
 
-I'm a third-year undergraduate at Rutgers University studying Physics and Computer Science. My primary research interest is Martian paleomagnetism and impact processes. I also like rock climbing :)
+I'm a fourth-year undergraduate at Rutgers University studying Physics and Computer Science. My primary research interest is Martian paleomagnetism and impact processes. I also like rock climbing :)
 
-My [CV](https://drive.google.com/file/d/1fRvMdfRPxHcCs7aNwoofUByy28Nm1rfO/view?usp=sharing) (last updated April 2023, currently out of date).
+- My [resume](https://files.catbox.moe/nevrh9.pdf) (last updated December 2024).
+- My [CV](https://drive.google.com/file/d/1fRvMdfRPxHcCs7aNwoofUByy28Nm1rfO/view?usp=sharing) (last updated April 2023, somewhat out of date).
 
 Contact me: [zain.eris.kamal@rutgers.edu](mailto:zain.eris.kamal@rutgers.edu). 
 
@@ -12,7 +13,12 @@ Here are summaries/links to my repositories:
 
 ## 1. Software
 
-[RedPlanet](https://github.com/Humboldt-Penguin/redplanet) (under heavy development / complete rewrite / data migration; but I'd be happy to help if you need a certain feature) — RedPlanet is a Python package created with the goal of making a handful of Mars geophysical datasets/analyses as accessible and convenient as possible, so you don't have to waste time finding/downloading/formatting data. Examples are heat flow/depth calculations with gamma-ray spectroscopy (GRS) data, digital elevation models up to 200m resolution (with parallelization/chunking to significantly half memory/storage use and increase accessing speed by 3-10 orders of magnitude), custom crustal thickness models (~23K options parameterized by any north/south crustal density, 16 reference interior models, and any crustal thickness at InSight), searchable crater databases, and MAVEN magnetometer data. 
+[RedPlanet](https://github.com/Humboldt-Penguin/redplanet) (under heavy development / complete rewrite / data migration; but I'd be happy to help if you need a certain feature) — RedPlanet is a Python package which provides accessible, easy-to-use, and out-of-the-box tools for working with various Mars geophysical datasets. Examples include:
+- Crustal heat flow & Curie depth calculations from gamma-ray spectroscopy (GRS) data.
+- Digital elevation models up to 200m resolution, with parallelization/chunking for high-performance.
+- Crater database which unifies [1] Robbins & Hynek 2020 database of craters D>=1km, [2] Robbins, Hynek, Lillis, & Bottke 2013 age-modeled craters via isochron-fitting, and [3] official IAU crater names/nomenclature up-to-date.
+- Custom crustal thickness models based on Weiczorek's "InSight Crustal Thickness Archive" (~23K options parameterized by any north/south crustal density, 16 reference interior models, and any crustal thickness at InSight)
+- MAVEN magnetometer data, filtered for nighttime and low-altitude (COMING SOON).
 
 ---
 
