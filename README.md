@@ -9,39 +9,48 @@ Contact me: [zain.eris.kamal@rutgers.edu](mailto:zain.eris.kamal@rutgers.edu).
 
 Here are summaries/links to my repositories:
 
----
 
+&nbsp;
+
+---
 ## 1. Software
 
-[RedPlanet](https://github.com/Humboldt-Penguin/redplanet) — A Python package which provides accessible, easy-to-use, and out-of-the-box tools for working with various Mars geophysical datasets. Examples include:
-- Crustal heat flow & Curie depth calculations from gamma-ray spectroscopy (GRS) data.
-- Digital elevation models up to 200m resolution, with parallelization/chunking for high-performance.
-- Crater database which unifies [1] Robbins & Hynek 2020 database of craters D>=1km, [2] Robbins, Hynek, Lillis, & Bottke 2013 age-modeled craters via isochron-fitting, and [3] official IAU crater names/nomenclature up-to-date.
-- Custom crustal thickness models based on Weiczorek's "InSight Crustal Thickness Archive" (~23K options parameterized by any north/south crustal density, 16 reference interior models, and any crustal thickness at InSight)
+[RedPlanet](https://github.com/Humboldt-Penguin/redplanet) ([website](https://humboldt-penguin.github.io/redplanet/)) — A Python package which provides accessible, easy-to-use, and out-of-the-box tools for working with various Mars geophysical datasets. Key features include:
+- **Crater database** which unifies [1] comprehensive database of craters D>=1km, [2] crater ages from both Hartmann and Neukum isochron-fitting, and [3] official/up-to-date IAU crater names.
+- **Digital elevation models** up to 200m resolution with memory-mapping, parallelization, and chunking for high-performance.
+- **Mohorovičić discontinuity** (crust-mantle interface) models and derived **crustal thickness** maps — models are parameterized by north/south crustal density, reference interior models, and crustal thickness beneath the InSight lander with a total of ~20,000 valid combinations.
+- **Magnetic source depth** data from spherical harmonic inversions.
+- **Heat flow** and **Curie depth** calculations from **gamma-ray spectroscopy (GRS)** data.
 - MAVEN magnetometer data, filtered for nighttime and low-altitude (COMING SOON).
 
-Expected v1 release in January 2025 or earlier.
+Expected v1 release in March-April 2025.
+
+
+&nbsp;
 
 ---
-
 ## 2. Research
 
 [Mars Geophysics](https://github.com/Humboldt-Penguin/Mars-Magnetics-Research) — *Rutgers Dept. Planetary Sciences*
 
-- Investigating the depth/formation/timing of crustal magnetic sources and implications for history of the Martian dynamo via impact craters. Mentored by Professor Lujendra Ojha.
+- Investigating the depth/formation/timing of crustal magnetic sources and implications for history of the Martian dynamo via impact craters. Advised by Professor Lujendra Ojha.
 
-[High Energy Physics, Muon Scattering](https://github.com/Humboldt-Penguin/HapPyCal) — *Rutgers Dept. Physics/Astronomy*
+[Offshore Wind Farms](https://github.com/Humboldt-Penguin/wind_research) — *NJ Economic Development Authority*
 
-- Performing analysis/software development for the MUon Scattering Experiment (MUSE) group to investigate the proton radius puzzle. My primary contribution was developing a fast calorimeter simulation framework with Generative Adversarial Networks. Mentored by Professor Ronald Gilman. 
-   
+- Fellowship studying offshore wind farms with Synthetic-Aperture Radar (SAR) data from Sentinel-1 satellites. Advised by Professor Roger Wang. 
+
+[High Energy Physics, Muon Scattering](https://github.com/Humboldt-Penguin/HapPyCal) — *Rutgers Dept. Physics/Astronomy + Paul Scherrer Institute*
+
+- Performing analysis/software development for the MUon Scattering Experiment (MUSE) group to investigate the proton radius puzzle. My primary contribution was developing a fast calorimeter simulation framework with Generative Adversarial Networks. Advised by Professor Ronald Gilman. 
    
 [Atmospheric/Solar Physics](https://github.com/Humboldt-Penguin/Albedo-Hurricane-Research) — *NJIT Dept. Solar Physics*
 
-- Analyzed cloud-radiation feedback systems during hurricanes with new BBSO Earthshine solar reflectance data. Mentored by Professor Andrew Gerrard.
+- Analyzed cloud-radiation feedback systems during hurricanes with new BBSO Earthshine solar reflectance data. Advised by Professor Andrew Gerrard.
 
+
+&nbsp;
 
 ---
-
 ## 3. Independent Projects
 
 [Physics Simulations with VPython](https://github.com/Humboldt-Penguin/Physics_Simulations)
@@ -59,8 +68,10 @@ Expected v1 release in January 2025 or earlier.
 [Integrated Water Hardness Meter](https://github.com/Humboldt-Penguin/Integrated_Water_Hardness_Monitor)
 - MVP for a device that homeowners can install and use to monitor water hardness trends in pipes.
 
----
 
+&nbsp;
+
+---
 ## 4. Misc
 
 [Learn Data Analysis with Python](https://github.com/Humboldt-Penguin/SPS_23Sp_PythonHackEvent)
