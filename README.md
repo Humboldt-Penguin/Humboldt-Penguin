@@ -24,7 +24,7 @@ Here are summaries/links to my repositories:
 - **Heat flow** and **Curie depth** calculations from **gamma-ray spectroscopy (GRS)** data.
 - MAVEN magnetometer data, filtered for nighttime and low-altitude (COMING SOON).
 
-Expected v1 release in March-April 2025.
+The website/demo should be done by April 2025, but the package is available for install right away and the API is stable with new features coming out regularly!
 
 
 &nbsp;
