@@ -2,7 +2,7 @@ Contact me: [zain.eris.kamal@rutgers.edu](mailto:zain.eris.kamal@rutgers.edu).
 
 Hello!
 
-I'm a research assistant at Rutgers University. My primary research interest is Martian paleomagnetism and impact processes. I also like rock climbing :)
+I'm a lecturer Rutgers University. My primary research interest is Martian paleomagnetism and impact processes. I also like rock climbing :)
 
 Here are summaries/links to my repositories:
 
